@@ -61,6 +61,7 @@
                     <StackPanel Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Right" VerticalAlignment="Bottom">
 
                         <Button Content="Зберегти"
+        Width="120"
         Command="{Binding DataContext.SaveCommand, RelativeSource={RelativeSource AncestorType=TabControl}}"
         CommandParameter="{Binding}">
                             <Button.Triggers>
@@ -69,12 +70,16 @@
                                         <Storyboard>
                                             <DoubleAnimation
                         Storyboard.TargetProperty="Width"
-                        To="200" Duration="0:0:0.5" AutoReverse="True"/>
+                        From="120"
+                        To="200"
+                        Duration="0:0:0.5"
+                        AutoReverse="True"/>
                                         </Storyboard>
                                     </BeginStoryboard>
                                 </EventTrigger>
                             </Button.Triggers>
                         </Button>
+
 
                     </StackPanel>
                 </Grid>

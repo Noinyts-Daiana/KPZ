@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using System.Globalization;
 using System.IO;
+using System.Text.Encodings.Web;
 using System.Text.Json;
 using System.Windows.Data;
 using System.Windows.Input;
@@ -63,7 +64,12 @@ public static class DataSerializer
 {
     public static void SerializeData<T>(string fileName, List<T> data)
     {
-        var json = JsonSerializer.Serialize(data, new JsonSerializerOptions { WriteIndented = true });
+        var options = new JsonSerializerOptions
+        {
+            WriteIndented = true,
+            Encoder = JavaScriptEncoder.UnsafeRelaxedJsonEscaping
+        };
+        var json = JsonSerializer.Serialize(data, options);
         File.WriteAllText(fileName, json);
     }
 
@@ -76,6 +82,7 @@ public static class DataSerializer
         return JsonSerializer.Deserialize<List<T>>(json) ?? new List<T>();
     }
 }
+
 public static class MapperConfig
 {
     private static IMapper _mapper;
@@ -102,4 +109,3 @@ public static class MapperConfig
         return _mapper;
     }
 }
-
