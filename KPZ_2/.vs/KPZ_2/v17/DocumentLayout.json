@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KPZ\\KPZ_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|d:\\kpz\\kpz_2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|d:\\kpz\\kpz_2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|d:\\kpz\\kpz_2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|d:\\kpz\\kpz_2\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|solutionrelative:classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|d:\\kpz\\kpz_2\\applicationcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|solutionrelative:applicationcard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|d:\\kpz\\kpz_2\\applicationcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|solutionrelative:applicationcard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|d:\\kpz\\kpz_2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|d:\\kpz\\kpz_2\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CA8DAD7-3EBE-422F-99D9-F1711F915599}|KPZ_2.csproj|solutionrelative:functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationCard.xaml",
+              "DocumentMoniker": "D:\\KPZ\\KPZ_2\\ApplicationCard.xaml",
+              "RelativeDocumentMoniker": "ApplicationCard.xaml",
+              "ToolTip": "D:\\KPZ\\KPZ_2\\ApplicationCard.xaml",
+              "RelativeToolTip": "ApplicationCard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-19T00:14:17.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationCard.xaml.cs",
+              "DocumentMoniker": "D:\\KPZ\\KPZ_2\\ApplicationCard.xaml.cs",
+              "RelativeDocumentMoniker": "ApplicationCard.xaml.cs",
+              "ToolTip": "D:\\KPZ\\KPZ_2\\ApplicationCard.xaml.cs",
+              "RelativeToolTip": "ApplicationCard.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:14:38.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "D:\\KPZ\\KPZ_2\\Classes.cs",
+              "RelativeDocumentMoniker": "Classes.cs",
+              "ToolTip": "D:\\KPZ\\KPZ_2\\Classes.cs",
+              "RelativeToolTip": "Classes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T22:12:00.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "D:\\KPZ\\KPZ_2\\Functions.cs",
+              "RelativeDocumentMoniker": "Functions.cs",
+              "ToolTip": "D:\\KPZ\\KPZ_2\\Functions.cs",
+              "RelativeToolTip": "Functions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T22:16:07.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\KPZ\\KPZ_2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\KPZ\\KPZ_2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T19:15:13.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\KPZ\\KPZ_2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\KPZ\\KPZ_2\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-18T19:15:15.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\KPZ\\KPZ_2\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\KPZ\\KPZ_2\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-18T21:05:08.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\KPZ\\KPZ_2\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "D:\\KPZ\\KPZ_2\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T17:17:02.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
